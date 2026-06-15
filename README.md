@@ -1,4 +1,3 @@
-
 # RADON - Real Estate Business
 
 - A platform where customers are able to Buy/Rent apartments or properties and also able to track their monthly invoices and utility bills. Various real estate businesses will be able to host their apartments or properties here as well as track their customers' monthly utility bills.
