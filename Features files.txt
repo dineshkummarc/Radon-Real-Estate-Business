@@ -26,10 +26,7 @@
 
 --> payment_details.php
 
-
 # User Panel Dashboard
-
-
 
 # Graphical Dashboard for admin
 
